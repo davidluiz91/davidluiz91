@@ -2,7 +2,7 @@
 
 - Formado em Sistemas de Informação pelo Centro Universitário Cesmac.💻
 
--Além da graduação, tenho me aprofundado em conhecimentos de Redes de Computadores, Segurança da Informação, SGSI, ITIL.
+- Além da graduação, tenho me aprofundado em conhecimentos de Redes de Computadores, Segurança da Informação, SGSI, ITIL.
 Estou em constante aprimoramento do meu inglês.
 <div align="center">
   <a href="https://github.com/davidluiz91">
