@@ -10,8 +10,8 @@ Estou em constante aprimoramento do meu inglês.
   <img align="center" alt="David-Shield" height="30" width="40" src="https://icongr.am/octicons/shield-check.svg?size=128&color=00ff4c">
   <img align="center" alt="David-Cisco" height="30" width="40" src="https://icongr.am/simple/cisco.svg?size=128&color=000000&colored=false">
   <img align="center" alt="David-HPE" height="30" width="40" src="https://icongr.am/simple/hp.svg?size=118&color=42ff7b&colored=false">
-  <img align="center" alt="David-CSS" height="30" width="40" src="https://icongr.am/simple/fortinet.svg?size=118&color=42ff7b&colored=false">
-  <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="David-Fortinet" height="30" width="40" src="https://icongr.am/simple/fortinet.svg?size=118&color=42ff7b&colored=false">
+  <img align="center" alt="David-Linux" height="30" width="40" src="https://icongr.am/simple/linux.svg?size=118&color=42ff7b&colored=false">
   <img align="center" alt="David-Duolingo" height="30" width="40" src="https://icongr.am/simple/duolingo.svg?size=128&color=42ff7b&colored=false">
   <img align="center" alt="David-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="David-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
