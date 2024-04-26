@@ -14,8 +14,6 @@ Estou em constante aprimoramento do meu inglês.
   <img align="center" alt="David-Linux" height="30" width="40" src="https://icongr.am/simple/linux.svg?size=118&color=00ff4c&colored=false">
   <img align="center" alt="David-Duolingo" height="30" width="40" src="https://icongr.am/simple/duolingo.svg?size=128&color=00ff4c&colored=false">
   <img align="center" alt="David-Windows" height="30" width="40" src="https://icongr.am/simple/windows.svg?size=118&color=00ff4c&colored=false" />
-  <img align="center" alt="David-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://icongr.am/simple/visualstudiocode.svg?size=118&color=00ff4c&colored=false" />
   <img align="center" alt="David-Ap" height="30" width="40" src="https://icongr.am/material/access-point.svg?size=128&color=00ff4c" />
   
