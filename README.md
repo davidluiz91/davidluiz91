@@ -1,8 +1,8 @@
 ### Olá! Eu sou o David Luiz
 
-
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Sistemas da Informação 6/8
+- Formado em Sistemas de Informação pelo Centro Universitário Cesmac.💻
+Além da graduação, tenho me aprofundado em conhecimentos de Redes de Computadores, Segurança da Informação, SGSI, ITIL.
+Estou em constante aprimoramento do meu inglês.
 <div align="center">
   <a href="https://github.com/davidluiz91">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidluiz91&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
