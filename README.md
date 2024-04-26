@@ -8,7 +8,7 @@ Estou em constante aprimoramento do meu inglês.
  
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Shield" height="30" width="40" src="https://icongr.am/octicons/shield-check.svg?size=128&color=00ff4c">
-  <img align="center" alt="David-React" height="30" width="40" src="https://iconduck.com/icons/39937/hpe?shared">
+  <img align="center" alt="David-React" height="30" width="40" src="http://h30261.www3.hp.com/~/media/Files/H/HP-IR/documents/reports/2015/01-07-2015-form-10.pdf">
   <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
